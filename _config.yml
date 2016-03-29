@@ -2,6 +2,7 @@ name: mbtech
 favicon: null
 layout_spectrum: 0.9473363244906068
 typography_spectrum: 0.37999017513357103
+title: mb technologies
 cta:
   domain: null
   bucket: null
